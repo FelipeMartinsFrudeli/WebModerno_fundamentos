@@ -1,0 +1,15 @@
+
+h1 {
+    font-size: 20px;
+}
+
+.fundo {
+    background-color: brown;
+    color: whitesmoke;
+}
+
+#texto-Principal {
+    font-size: 40px;
+    font-weight: bold;
+    padding: 10px;
+}
